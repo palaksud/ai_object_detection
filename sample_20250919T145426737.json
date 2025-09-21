@@ -1,0 +1,27 @@
+{
+  "source_filename": "sample.jpeg",
+  "processed_at": "20250919T145426737",
+  "num_detections": 2,
+  "objects": [
+    {
+      "label": "book",
+      "confidence": 0.8668,
+      "bbox": [
+        7.65,
+        358.17,
+        1181.48,
+        954.37
+      ]
+    },
+    {
+      "label": "book",
+      "confidence": 0.3284,
+      "bbox": [
+        1030.43,
+        158.64,
+        1196.0,
+        972.38
+      ]
+    }
+  ]
+}
